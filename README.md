@@ -6,7 +6,7 @@ The goal was to understand how individual HTML elements and CSS rules interact t
 
 🌐 Live Preview
 
-🔗 
+🔗 https://cleancloths.netlify.app/
 
 🎯 Purpose of the Project
 
